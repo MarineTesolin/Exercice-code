@@ -1,0 +1,25 @@
+
+	/*Colonne de gauche avec fond bleue bordure verte*/
+.colonnegauche { 
+	float: left;
+	width: 250px;
+	background-color: #86BBD8;
+	list-style: none;
+	border-top: solid 5px #9FE694;
+	padding-bottom: 30px;
+    
+}
+
+
+/*Titre colonne de gauche aligné à gauche avec couleur grise*/
+h4 { 
+	color: #3A5768;
+	text-align: left; 
+	margin-right: 20px;
+	margin-left: 10px;
+
+} 
+
+li {
+	margin-left: 50px;
+}
